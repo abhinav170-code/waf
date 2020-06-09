@@ -3,3 +3,5 @@ dist
 cache.properties
 TAGS
 .result
+
+.test -result
