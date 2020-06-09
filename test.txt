@@ -1,3 +1,0 @@
-It will appear as IBM Rational Integration Tester Agent.
-
-Consult your software license entitlement to ensure that you install and use RIT-Agent in compliance with it.
